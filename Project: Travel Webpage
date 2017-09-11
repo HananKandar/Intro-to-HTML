@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    <style>
+        
+        body{
+          
+          background:rgb(81, 179, 214);
+      }
+      
+      h1{
+          
+          color:rgb(255, 0, 9);
+      }
+      
+      
+      h2{
+          
+          color:rgb(255, 0, 0);
+      }
+      
+      .Description{
+          
+          background-color:rgb(240, 252, 13);
+      }
+      
+      li{
+          
+          background-color:rgb(230, 255, 3);
+      }
+      
+      p{ 
+          color:rgb(255, 0, 136);
+      }
+      
+      ol{
+          
+          background-color:rgb(51, 255, 5);
+          
+          
+          }
+        
+        #Musts{
+            
+            color:rgb(252, 3, 32);
+        }
+        
+        
+        
+        
+    </style>
+
+        
+        
+        
+        
+
+    
+        <h1><strong>Travel to Turkey!</strong></h1>
+        <p class="Description">Pack your bags because once you hear what Turkey has to offer you'll need them! Turkey is a beautiful country. With all of its beautiful scenery, high quality cuisine, and fun activities for the whole family, there is never a dull moment. Turkey is not only a beautiful and fun place to visit, but it has so much history behind it. </p>
+        
+        
+         <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="beach" Width="300"> 
+         
+        <h3 id="Musts">Top 5 Things You MUST do When in Turkey:</h3>
+        <ol>1.Try their icecream!(It's seriously delicious!) </ol>
+        <ol>2.Take a boat ride and enjoy the amazing view. </ol>
+        <ol>3.Visit both the Asian and European side of the country.</ol>
+        <ol>4.Take a hot air balloon ride when the sun begins to rise.</ol>
+        <ol>5.Ride a camel through the desert.</ol>
+       
+        
+        
+         
+         
+         <img src="https://www.kasandbox.org/programming-images/landscapes/mountains-sunset.png" alt="mountains at sunset" Width="250"> 
+         
+         
+
+<h2><strong>Fun Activities for the Whole Family</strong></h2>
+
+ <li>Visiting historical landmarks 
+         <li>Visiting historical museums
+         <li>Hiking up the mountains <li>Relaxing near the beaches
+         <li>Going on a hot air balloon ride over looking the mountains.<li>Riding a camel<li> Eating at excellent restaurants<li> Shopping at the world-famous Grand Bazaar <li>Taking a nice calming walk through beautiful, well-maintained parks. </li> 
+         
+         
+         <p><strong>Come visit Turkey today! Call 123-456-789 now for <em> more </em> information or to book your trip. Trust us when we say, it's an experience of a lifetime, that you definitely won't want to miss.</strong></p>
+             
+             
+         
+         
+         <img src="https://www.kasandbox.org/programming-images/landscapes/mountains-in-hawaii.png" alt="mountains on cloudy day" Width="400" Height="250">
+         
+
+
+
+    </body>
+</html>
